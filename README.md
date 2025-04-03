@@ -1,6 +1,6 @@
 # Compile Twrp Recovery with Github Actions
 ```
-only Supports TWRP  14 / 12.1 / 11 / 9.0
+only Supports TWRP  14.1 / 12.1 / 11 / 9.0
 ```
 ---
 ![twrp_jpg](https://s3.bmp.ovh/imgs/2024/10/07/7e8dccdad37f834d.jpg)
@@ -38,7 +38,7 @@ only Supports TWRP  14 / 12.1 / 11 / 9.0
 ![](https://s3.bmp.ovh/imgs/2024/10/07/830c7e6f9f983fac.jpg)
 
 ## Parameter Description
-| Name | Description | Example |
+|名字|描述| Example |
 | ------------ | -------------------- | ------------ |
 | `MANIFEST_BRANCH` | Source branch | twrp-14 |
 | `DEVICE_TREE_URL` | Device tree address | https://github.com/kinguser981/android_device_samsung_a05s.git |
